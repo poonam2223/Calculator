@@ -27,7 +27,7 @@ body{
     direction: ltr;
     border: none;
     border-radius: 2%;
-    font-size: 35px;
+    font-size: 34px;
     
 }
 .grid-container { 
@@ -48,7 +48,7 @@ body{
     border-radius: 5%;
     
   }
-  .itemEqual{
+  .itemEqual{ 
     
         grid-column: 4;
         grid-row: 2 / span 4;  
