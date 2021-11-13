@@ -3,9 +3,9 @@ var expression='' ;
 
 
 function press(num){
-    console.log("expression -- " + num);
+    
     expression += num; 
-    console.log("expression -- " + expression);
+  
     userInput.value = expression;  
 }
 
