@@ -1,0 +1,50 @@
+body{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    height: 100vh;
+    
+   
+}
+.groceryListContainer{ 
+    border: 2px solid black;
+    padding: 10px;
+    width:350px;
+    text-align: center;
+    background-color: rgb(73, 73, 69);
+    color: beige;
+}
+h1{
+   
+    font-family: 'Poppins', sans-serif;
+}
+.groceryListContainer button {
+    margin: 0;
+    padding: 0;
+}
+.groceryListContainer button i{
+    padding: 5px 10px;
+    font-size: 20px;
+}
+table{
+    width:100%;
+}
+table tr td {
+    width: auto;
+}
+.btnn{
+    padding: 5px;
+   
+    width:100%;
+}
+.btnn button{
+    padding: 5px 10px;
+    letter-spacing: 2px;
+    font-weight:500;
+    background-color: rgb(15, 15, 14);
+    color:cornsilk;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+
+}
